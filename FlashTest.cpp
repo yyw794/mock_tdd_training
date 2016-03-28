@@ -9,7 +9,9 @@ extern "C"
 
 #include "CppUTest/TestHarness.h"
 
+
 //START:TEST_GROUP_with_MicroTime
+
 TEST_GROUP(Flash)
 {
     ioAddress address;
